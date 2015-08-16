@@ -5,7 +5,7 @@
     <head>
 
         <meta charset="utf-8" />
-	
+	<link rel="stylesheet" href="style.css" />
 	<!--[if lt IE 9]>
 
     	<script src="http://github.com/aFarkas/html5shiv/blob/master/dist/html5shiv.js"></script>
@@ -76,7 +76,15 @@
 						<ul>
 							<li>Monteur de plongée sous marine</li>
 							<li>Moniteur de secourisme</li>
-							<li>Moniteur de Tir</li>							
+							<li>Moniteur de Tir</li>
+							<li>Compétences en Informatique
+								<ul class="sousliste">
+									<li>Linux</li>
+									<li>Réseaux TCP/IP</li>
+									<li>HTML5 et CSS</li>
+									<li>PHP et MySQL</li>
+								</ul>
+							</li>
 							<li>Sports pratiqués
 								<ul class="sousliste">
 									<li>Course à pied</li>
